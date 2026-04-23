@@ -1,6 +1,6 @@
 # CS-330
 
-## Relection
+## Reflection
 
 When it comes to designing software, I usually start by trying to understand what the final result should look like before worrying too much about the code itself. For this project, that meant thinking about how I wanted the scene to look visually and how different objects shoudl beheve before actually implementing them. One design skill I improved on was breaking down a larger idea into smaller parts, like separating the scene into individual objects and handling lighting, textures, and transformations step by step. My design process was pretty iterative. I would build something simple first, test it, and then gradually add more detail or fix issues as they came up. That approach is something I can definitely carry into future work because it makes complex projects feel more manageable.
 
